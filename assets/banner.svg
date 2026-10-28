@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <defs>
+    <linearGradient id="bgPr" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#161b22;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" rx="12" fill="url(#bgPr)" stroke="#30363d" stroke-width="1"/>
+  <text x="450" y="85" font-family="monospace" font-size="42" font-weight="bold" fill="#ff0033" text-anchor="middle">dont-get-hacked-hermes</text>
+  <text x="450" y="125" font-family="monospace" font-size="16" fill="#c9d1d9" text-anchor="middle">How to lock down a VPS running a multi-agent Hermes AI gateway</text>
+  <text x="450" y="160" font-family="monospace" font-size="13" fill="#00ff88" text-anchor="middle">sinCodes11 · defensive / educational · github.com/sinCodes11/dont-get-hacked-hermes</text>
+</svg>

@@ -1,4 +1,12 @@
-# dont-get-hacked-hermes
+<div align="center">
+  <img src="assets/banner.svg" width="100%"/>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/focus-VPS%20hardening-ff0033?style=flat-square" alt="focus">
+  <img src="https://img.shields.io/badge/stack-UFW%20%2F%20fail2ban%20%2F%20SSH%20%2F%20systemd-00ff88?style=flat-square" alt="stack">
+</p>
+
 
 > How to lock down a VPS before letting an autonomous AI agent move in.
 
